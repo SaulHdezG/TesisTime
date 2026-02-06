@@ -12,13 +12,12 @@
 <body>
     <table border="0" cellspacing="0" cellpadding="0" width="800">
         <tr>
-            <td align="center" colspan="3" height="20">
-            [[HEADER]]
-            </td>
+            <td align="center" colspan="3" height="20"><%@include
+                    file="header.jspf"%></td>
         </tr>
         <tr>
             <td align="center" valign="top" width="150" class="menu">
-                [[MENU]]
+                <%@include file="menu.jspf"%>
             </td>
             <td width="25"></td>
             <td valign="top" align="center" width="625">
@@ -29,9 +28,8 @@
             </td>
         </tr>
         <tr>
-            <td align="center" colspan="3">
-            [[FOOTER]]
-                    </td>
+            <td align="center" colspan="3"><%@include
+                    file="footer.jspf"%></td>
         </tr>
     </table>
 </body>

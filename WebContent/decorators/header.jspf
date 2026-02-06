@@ -1,14 +1,14 @@
 <table border="0" cellspacing="0" cellpadding=0 width="100%" >
   <tr>
     <td align="center" width="160">
-      <img src="<%=request.getContextPath()%>/img/logo.png"
-         height="54" width="158">
+      <img src="<%=request.getContextPath()%>/img/CODEMOBILELOGO2.png"
+         height="100" width="158">
     </td>
 
     <td width="15"></td>
 
     <td align="center" valign="middle" width="625" height="40">
-      <h1 class="title">Tienda de Celulares</h1>
+      <h1 class="title">Tesis Time</h1>
     </td>
   </tr>
 
