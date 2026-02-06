@@ -1,0 +1,15 @@
+# Compilados
+bin/
+target/
+build/
+out/
+
+# Eclipse
+.metadata/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
